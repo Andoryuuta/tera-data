@@ -1,0 +1,8 @@
+array players
+-byte isNew # Display flashing "NEW" icon next to rank
+-int32 recentRankChange
+-int32 rank
+-int32 unk3 # Always 1?
+-int64 time # milliseconds
+-int32 class
+-string name
